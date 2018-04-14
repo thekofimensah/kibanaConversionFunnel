@@ -4,6 +4,7 @@ This is hack I found to create a conversion funnel with Kibana
 
 Trying to make the Funnel work with the existing [kbn_funnel](XXX) in Kibana 5.X and 6.X was taking too long and no updates have been made so I found a work around that actually opened the door to tons of possibilities. With this hack, you can use ANY D3 library to create interactive and fun visuals. Check out https://canvasjs.com/docs/charts/chart-types/ or https://github.com/d3/d3/wiki/Gallery for all your options. This example is for creating a funnel visual.
 
+![FunnelDemo](https://github.com/seanziee/kibanaConversionFunnel/blob/master/AwesomeScreenshot-2018-04-14T00-05-26-322Z.gif)
 
 
 # How to do
